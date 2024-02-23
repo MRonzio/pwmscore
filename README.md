@@ -21,10 +21,10 @@ optional arguments:
 ## Example with test data
 ```CalcScoreJaspar.py -M test_data/MAA060_1_JASPAR2016 -o CTCAGCCAATCAGCGC -s pos```
 
-## requirements
+## Requirements
 python3
 pandas
 
 
-# Reference
+## Reference
 [1] https://doi.org/10.1093/nar/gkt448
